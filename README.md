@@ -1,17 +1,17 @@
-# Naver ID Login SDK for iOS
-iOS용 네이버 ID 로그인 라이브러리 및 예제 프로젝트를 포함하고있습니다.<br>
-자세한 내용은 [개발자 센터 튜토리얼](https://developers.naver.com/docs/login/ios/)에서 확인하실 수 있습니다.
+# NaverID Login SDK for iOS SPM Packaging
+This is Naver ID Login SDK for SPM Packaging Project
 
+## Installation
+```sh
+dependencies: [
+    .package(url: "https://github.com/aladinMobileapp/naveridlogin-spm-ios.git", branch: "4.1.5")
+]
+```
 
-샘플앱 실행 방법
-```
-pod try naveridlogin-sdk-ios
-```
+## Original Repository
+- https://github.com/naver/naveridlogin-sdk-ios
+- https://developers.naver.com/docs/login/ios/
 
-Podfile 적용
-```
-pod 'naveridlogin-sdk-ios'
-```
 
 # License
 See [LICENSE](LICENSE) for full license text.
