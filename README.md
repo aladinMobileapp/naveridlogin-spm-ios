@@ -4,7 +4,7 @@ This is Naver ID Login SDK for SPM Packaging Project
 ## Installation
 ```sh
 dependencies: [
-    .package(url: "https://github.com/aladinMobileapp/naveridlogin-spm-ios.git", branch: "4.1.51")
+    .package(url: "https://github.com/aladinMobileapp/naveridlogin-spm-ios.git", branch: "4.2.1")
 ]
 ```
 
