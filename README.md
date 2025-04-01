@@ -1,3 +1,12 @@
+# Notice 2025.03.17
+ 이 저장소는 더이상 업데이트 되지 않으며, 지원이 종료될 예정입니다.
+ 앞으로의 새로운 버전과 업데이트는 [naveridlogin-sdk-ios-swift](https://github.com/naver/naveridlogin-sdk-ios-swift)에서 제공될 예정이니, 해당 저장소를 이용해주세요.
+ 
+ This repository is no longer actively maintained and will soon be deprecated.
+ All future versions and updates will be available in [naveridlogin-sdk-ios-swift](https://github.com/naver/naveridlogin-sdk-ios-swift).
+ 
+ ---
+
 # NaverID Login SDK for iOS SPM Packaging
 This is Naver ID Login SDK for SPM Packaging Project
 
